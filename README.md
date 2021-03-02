@@ -1,7 +1,6 @@
 ### Hi I'm Pranjal 👋 a Front-end developer
 
 ## Toolset
-- Javascript
 - React
 - NextJS
 - MongoDB
