@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I'm Pranjal 👋 a Front-end developer
 
-<!--
-**PranjalMaithani/PranjalMaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Toolset
+- Javascript
+- React
+- NextJS
+- MongoDB
+- NodeJS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 [My Portfolio](https://www.notion.so/77a5f48c5d6c44e3b0d8dd8aefe5324c?v=944a66e627a44aa0b63361a0565dca0b)
+- 🎨[Voog Design System](voog-design-system.netlify.app/)
+- 🗂[Trello Clone](https://trullo-trello-clone.netlify.app/)
+- 📸[Unsplash Clone](https://onsplash-unsplash-clone.netlify.app/)
+- 💬[Supabase Realtime Chat](https://supabase-chat.netlify.app/)
