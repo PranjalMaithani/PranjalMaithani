@@ -1,5 +1,4 @@
 ### Hi I'm Pranjal 👋 a Front-end developer
-_Currently looking for work_
 
 ## Toolset
 - React
